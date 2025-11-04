@@ -6,6 +6,7 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
     baseUrl: 'https://petstore.swagger.io',
-    experimentalPromptCommand: true
+    experimentalPromptCommand: true,
+    projectId: "ao5ucg"
   },
 });

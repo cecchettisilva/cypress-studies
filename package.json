@@ -4,5 +4,9 @@
     "ajv": "^8.17.1",
     "cypress": "^15.5.0",
     "cypress-plugin-api": "^2.11.2"
+  },
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
   }
 }
